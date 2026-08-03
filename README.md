@@ -1,56 +1,28 @@
-\# Automated Incident Response using Wazuh, Shuffle \& FortiGate
+# Automated Incident Response using Wazuh, Shuffle & FortiGate
 
-
-
-\## Overview
-
-
+## Overview
 
 This project automates incident response workflow using:
 
+- Wazuh SIEM
+- Shuffle SOAR
+- AbuseIPDB Threat Intelligence
+- FortiGate Firewall API
+- Telegram Notification
 
+## Architecture
 
-\- Wazuh SIEM
+![Architecture](docs/images/architecture.png)
 
-\- Shuffle SOAR
+## Features
 
-\- AbuseIPDB Threat Intelligence
+- Automated malicious IP detection
+- Threat intelligence lookup
+- Firewall blocking
+- SOC notification
 
-\- FortiGate Firewall API
+## Documentation
 
-\- Telegram Notification
-
-
-
-\## Architecture
-
-
-
-!\[Architecture](docs/images/architecture.png)
-
-
-
-\## Features
-
-
-
-\- Automated malicious IP detection
-
-\- Threat intelligence lookup
-
-\- Firewall blocking
-
-\- SOC notification
-
-
-
-\## Documentation
-
-
-
-\- \[Installation](docs/installation.md)
-
-\- \[Workflow](docs/workflow.md)
-
-\- \[Architecture](docs/architecture.md)
-
+- [Installation](docs/installation.md)
+- [Workflow](docs/workflow.md)
+- [Architecture](docs/architecture.md)
