@@ -48,9 +48,9 @@ This project automates incident response workflow using:
 
 
 
-\- Installation: docs/installation.md
+\- \[Installation](docs/installation.md)
 
-\- Workflow: docs/workflow.md
+\- \[Workflow](docs/workflow.md)
 
-\- Architecture: docs/architecture.md
+\- \[Architecture](docs/architecture.md)
 
