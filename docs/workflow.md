@@ -18,6 +18,8 @@ The main objective is to reduce incident response time and improve SOC operation
 
 # Workflow Architecture
 
+# Workflow Architecture
+
 ```text
                  Wazuh SIEM
                      |
@@ -48,6 +50,10 @@ The main objective is to reduce incident response time and improve SOC operation
           v
  Telegram Notification
 ```
+
+## Workflow Diagram
+
+![Workflow Architecture](images/workflow.png)
 
 ---
 

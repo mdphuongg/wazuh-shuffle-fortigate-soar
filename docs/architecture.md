@@ -2,5 +2,5 @@
 
 
 
-!\[Architecture](docs/images/architecture.png)
+!\[Architecture](images/architecture.png)
 
